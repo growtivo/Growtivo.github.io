@@ -340,12 +340,6 @@ footer {
   <a href="mailto:Lesedi.malatsi@outlook.com" class="nav-cta">Hire me</a>
 </nav>
 
-<!-- BANNER -->
-<div class="banner-strip">
-  <img src="growtivobanner.jpeg" alt="Growtivo — Where Marketing Meets Technology and Makes Revenue" onerror="this.parentElement.style.display='none'">
-  <div class="banner-overlay"></div>
-</div>
-
 <!-- HERO -->
 <section class="hero" id="home">
   <div class="hero-inner">
