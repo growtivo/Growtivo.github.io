@@ -328,7 +328,6 @@ footer {
 <!-- NAV -->
 <nav>
   <a href="#" class="nav-brand">
-    <img src="https://⁨OnMyiPad⁩/Downloads/Portfolio⁩/Grotivologo.jpeg" alt="Growtivo" id="nav-logo" style="display:none">
     <span class="nav-name">Lesedi Malatsi</span>
   </a>
   <ul class="nav-links">
