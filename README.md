@@ -328,6 +328,7 @@ footer {
 <!-- NAV -->
 <nav>
   <a href="#" class="nav-brand">
+    <img src="https://i.imgur.com/placeholder.png" alt="Growtivo" id="nav-logo" style="display:none">
     <span class="nav-name">Lesedi Malatsi</span>
   </a>
   <ul class="nav-links">
@@ -339,6 +340,12 @@ footer {
   </ul>
   <a href="mailto:Lesedi.malatsi@outlook.com" class="nav-cta">Hire me</a>
 </nav>
+
+<!-- BANNER -->
+<div class="banner-strip">
+  <img src="IMG_8735.jpeg" alt="Growtivo — Where Marketing Meets Technology and Makes Revenue" onerror="this.parentElement.style.display='none'">
+  <div class="banner-overlay"></div>
+</div>
 
 <!-- HERO -->
 <section class="hero" id="home">
@@ -417,7 +424,7 @@ footer {
         <div class="service-num">04</div>
         <div class="service-icon">🎯</div>
         <div class="service-title">Lead generation</div>
-        <div class="service-desc">Outbound outreach, Cold calling, LinkedIn prospecting, appointment setting, CRM pipeline management, and market research that fills your funnel.</div>
+        <div class="service-desc">Outbound outreach, LinkedIn prospecting, appointment setting, CRM pipeline management, and market research that fills your funnel.</div>
         <div class="service-tags"><span class="service-tag">Outreach</span><span class="service-tag">LinkedIn</span><span class="service-tag">Pipeline</span></div>
       </div>
       <div class="service-card">
@@ -431,7 +438,7 @@ footer {
         <div class="service-num">06</div>
         <div class="service-icon">📊</div>
         <div class="service-title">Business analysis</div>
-        <div class="service-desc">Process improvement, requirements gathering, operational efficiency audits, system testing and data-driven insights that inform smarter decisions.</div>
+        <div class="service-desc">Process improvement, requirements gathering, operational efficiency audits, and data-driven insights that inform smarter decisions.</div>
         <div class="service-tags"><span class="service-tag">Analysis</span><span class="service-tag">Process</span><span class="service-tag">Reporting</span></div>
       </div>
     </div>
@@ -450,18 +457,18 @@ footer {
         <p class="brand-body">I identify the gaps, build the platforms, craft the stories, create the content, and track what converts. Commercial, not creative for its own sake.</p>
         <p style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:0.12em;color:rgba(255,255,255,0.4);margin-bottom:12px;margin-top:24px;">Platforms I work across</p>
         <div class="platforms-row">
-          <span class="platform-chip">💼LinkedIn</span>
-          <span class="platform-chip">🖥️ TikTok</span>
+          <span class="platform-chip">💼 LinkedIn</span>
+          <span class="platform-chip">🎵 TikTok</span>
           <span class="platform-chip">📸 Instagram</span>
           <span class="platform-chip">📘 Facebook</span>
-          <span class="platform-chip">🎞️ YouTube Shorts</span>
+          <span class="platform-chip">▶️ YouTube Shorts</span>
         </div>
       </div>
       <div>
         <p style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:0.12em;color:rgba(255,255,255,0.4);margin-bottom:16px;">Revenue gaps I close</p>
         <div class="gap-list">
           <div class="gap-row"><div class="gap-icon">🔍</div><div><div class="gap-title">No LinkedIn presence</div><div class="gap-desc">Corporate buyers, HR managers, and investors search LinkedIn first. Invisible there means invisible to your best clients.</div></div></div>
-          <div class="gap-row"><div class="gap-icon">📱</div><div><div class="gap-title">No TikTok or Instagram Reels</div><div class="gap-desc">The UK and global market's fastest-growing discovery platforms. Property tours, day-in-the-life, and city content drive real bookings.</div></div></div>
+          <div class="gap-row"><div class="gap-icon">📱</div><div><div class="gap-title">No TikTok or Instagram Reels</div><div class="gap-desc">One of the world's fastest-growing disvovery platforms, where budinesses connect with customerd through authentic content.</div></div></div>
           <div class="gap-row"><div class="gap-icon">✍️</div><div><div class="gap-title">No brand story</div><div class="gap-desc">Facts tell, stories sell. Without a compelling narrative, you're competing on price instead of value.</div></div></div>
           <div class="gap-row"><div class="gap-icon">⭐</div><div><div class="gap-title">Reviews not working for you</div><div class="gap-desc">A 4.9 rating sitting on one page. Amplified across platforms it becomes a conversion machine.</div></div></div>
           <div class="gap-row"><div class="gap-icon">👤</div><div><div class="gap-title">No founder personal brand</div><div class="gap-desc">People buy from people. Visible founders build trust faster and cheaper than any ad campaign.</div></div></div>
@@ -480,7 +487,7 @@ footer {
       <div class="why-card">
         <div class="why-card-accent"></div>
         <div class="why-card-title">Zero ramp-up time</div>
-        <div class="why-card-body">10+ years across VA, brand strategy, lead gen, customer support, and business analysis. I integrate fast, ask the right questions, and deliver from week one.</div>
+        <div class="why-card-body">10+ years across customer support, VA, brand strategy, lead gen, and business analysis. I integrate fast, ask the right questions, and deliver from week one.</div>
       </div>
       <div class="why-card">
         <div class="why-card-accent"></div>
@@ -525,11 +532,11 @@ footer {
     <div class="exp-timeline">
       <div class="exp-row">
         <div class="exp-meta"><div class="exp-period">2022 – Present</div><div class="exp-company">Remote · Freelance</div></div>
-        <div><div class="exp-role">Virtual Assistant</div><ul class="exp-bullets"><li>Managed scheduling, email correspondence, and task workflows across multiple remote clients using ClickUp.</li><li>Maintained CRM systems, generated reports, and tracked pipeline progress with spreadsheet tools.</li><li>Collaborated with cross-functional teams via Slack, Zoom, and cloud platforms to improve workflow efficiency.</li></ul></div>
+        <div><div class="exp-role">Virtual Assistant</div><ul class="exp-bullets"><li>Managed scheduling, email correspondence, and task workflows across multiple remote clients using ClickUp.</li><li>Maintained CRM systems, generated reports, and tracked pipeline progress with spreadsheet tools.</li><li>Collaborated with cross-functional teams via Slack, Zoom, and cloud platforms like github to improve workflow efficiency.</li></ul></div>
       </div>
       <div class="exp-row">
         <div class="exp-meta"><div class="exp-period">2022 – 2025</div><div class="exp-company">LDG Reliance</div></div>
-        <div><div class="exp-role">Customer Service Representative — QA Support</div><ul class="exp-bullets"><li>Monitored calls, chats, and emails against KPIs including accuracy, empathy, and resolution rate.</li><li>Produced QA reports and operational insights using Microsoft Office and Google Workspace.</li><li>Enhanced customer experience through data-driven feedback and targeted support improvements.</li></ul></div>
+        <div><div class="exp-role">Customer Service Representative — QA Support</div><ul class="exp-bullets"><li>Monitored inbound & outbound calls, chats, and emails against KPIs including accuracy, empathy, and resolution rate.</li><li>Produced QA reports and operational insights using Microsoft Office and Google Workspace.</li><li>Enhanced customer experience through data-driven feedback and targeted support improvements.</li></ul></div>
       </div>
       <div class="exp-row">
         <div class="exp-meta"><div class="exp-period">2022 – 2025</div><div class="exp-company">Brand Guru Ltd & Web Leads</div></div>
@@ -560,7 +567,7 @@ footer {
       <div>
         <p class="skill-group-title">Core skills</p>
         <div class="skill-tags">
-          <span class="skill-tag">Email management</span><span class="skill-tag">Calendar coordination</span><span class="skill-tag">CRM management</span><span class="skill-tag">Lead generation</span><span class="skill-tag">LinkedIn outreach</span><span class="skill-tag">Data entry</span><span class="skill-tag">QA monitoring</span><span class="skill-tag">Appointment setting</span><span class="skill-tag">Report generation</span>
+          <span class="skill-tag">Email management</span><span class="skill-tag">Calendar coordination</span><span class="skill-tag">CRM management</span><span class="skill-tag">Lead generation</span><span class="skill-tag">LinkedIn outreach</span><span class="skill-tag">Cold calling</span><span class="skill-tag">Data entry</span><span class="skill-tag">QA monitoring</span><span class="skill-tag">Appointment setting</span><span class="skill-tag">Report generation</span>
         </div>
       </div>
       <div>
@@ -572,7 +579,7 @@ footer {
       <div>
         <p class="skill-group-title">Tools & platforms</p>
         <div class="skill-tags">
-          <span class="skill-tag">ClickUp</span><span class="skill-tag">Github</span><span class="skill-tag">Github</span> <span class="skill-tag">Slack</span><span class="skill-tag">Zoom</span><span class="skill-tag">Microsoft Office</span><span class="skill-tag">Google Workspace</span><span class="skill-tag">CRM systems</span><span class="skill-tag">Canva</span>
+          <span class="skill-tag">ClickUp</span> <span class="skill-tag">Github</span> <span class="skill-tag">Slack</span><span class="skill-tag">Zoom</span><span class="skill-tag">Microsoft Office</span><span class="skill-tag">Google Workspace</span><span class="skill-tag">CRM systems</span><span class="skill-tag">Canva</span> <span class="skill-tag">Github</span>
         </div>
       </div>
       <div>
