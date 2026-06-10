@@ -64,8 +64,8 @@
   "name": "Services by Lesedi Malatsi",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "name": "Virtual Assistant Services"},
-    {"@type": "ListItem", "position": 2, "name": "Customer Support Representative"},
-    {"@type": "ListItem", "position": 3, "name": "Lead Generation Specialist"},
+    {"@type": "ListItem", "position": 2, "name": "Lead Generation Specialist"},
+    {"@type": "ListItem", "position": 3, "name": "Customer Support Representative"},
     {"@type": "ListItem", "position": 4, "name": "Brand Strategist"},
     {"@type": "ListItem", "position": 5, "name": "Social Media Management"}
   ]
