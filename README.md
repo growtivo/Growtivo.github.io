@@ -399,8 +399,8 @@ footer {
       </div>
       <div class="hero-stats">
         <div class="hero-stat"><div class="hero-stat-num">10+</div><div class="hero-stat-label">Years experience</div></div>
-        <div class="hero-stat"><div class="hero-stat-num">3+</div><div class="hero-stat-label">Years freelancing</div></div>
-        <div class="hero-stat"><div class="hero-stat-num">5+</div><div class="hero-stat-label">Industries served</div></div>
+        <div class="hero-stat"><div class="hero-stat-num">4+</div><div class="hero-stat-label">Years freelancing</div></div>
+        <div class="hero-stat"><div class="hero-stat-num">8+</div><div class="hero-stat-label">Industries served</div></div>
         <div class="hero-stat"><div class="hero-stat-num">100%</div><div class="hero-stat-label">Remote ready</div></div>
       </div>
     </div>
@@ -416,7 +416,7 @@ footer {
     <span class="hire-label">Hire me as</span>
     <div class="hire-pill"><span class="hire-pill-icon">🏢</span><div><div class="hire-pill-title">Full team member</div><div class="hire-pill-sub">In-house or remote employee</div></div></div>
     <div class="hire-pill"><span class="hire-pill-icon">🤝</span><div><div class="hire-pill-title">Independent contractor</div><div class="hire-pill-sub">Flexible, project-based</div></div></div>
-    <div class="hire-pill"><span class="hire-pill-icon">🚀</span><div><div class="hire-pill-title">Freelancer</div><div class="hire-pill-sub">One-off or retainer</div></div></div>
+    <div class="hire-pill"><span class="hire-pill-icon">🚀</span><div><div class="hire-pill-title">Freelancer</div><div class="hire-pill-sub">Once-off or retainer</div></div></div>
   </div>
 </div>
 
@@ -443,7 +443,7 @@ footer {
       <div>
         <p class="brand-body">Most businesses are brilliant at what they do. Where they leave money on the table is visibility. No LinkedIn means corporate buyers can't find you. No TikTok means the next generation of clients never discovers you. No storytelling means you're just another option — not the obvious choice.</p>
         <div class="brand-quote">"Every day without the right social presence is a day your competitors are reaching clients that should be yours."</div>
-        <p class="brand-body">I identify the gaps, build the platforms, craft the stories, create the content, and track what converts. Commercial, not creative for its own sake.</p>
+        <p class="brand-body">I identify the gaps, build the platforms, craft the stories, and create content that means something — then track every piece of it back to real results. Because creativity without purpose is just noise, and your business deserves better than that.</p>
         <p style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:0.12em;color:rgba(255,255,255,0.4);margin-bottom:12px;margin-top:24px;">Platforms I work across</p>
         <div class="platforms-row">
           <span class="platform-chip">💼 LinkedIn</span><span class="platform-chip">🎵 TikTok</span><span class="platform-chip">📸 Instagram</span><span class="platform-chip">📘 Facebook</span><span class="platform-chip">🐦 X / Twitter</span><span class="platform-chip">▶️ YouTube Shorts</span>
@@ -452,8 +452,9 @@ footer {
       <div>
         <p style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:0.12em;color:rgba(255,255,255,0.4);margin-bottom:16px;">Revenue gaps I close</p>
         <div class="gap-list">
-          <div class="gap-row"><div class="gap-icon">🔍</div><div><div class="gap-title">No LinkedIn presence</div><div class="gap-desc">Corporate buyers, HR managers, and investors search LinkedIn first. Invisible there means invisible to your best clients.</div></div></div>
-          <div class="gap-row"><div class="gap-icon">📱</div><div><div class="gap-title">No TikTok or Instagram Reels</div><div class="gap-desc">The UK and global market's fastest-growing discovery platforms. Property tours, day-in-the-life, and city content drive real bookings.</div></div></div>
+          <div class="gap-row"><div class="gap-icon">🔍</div><div><div class="gap-title">No LinkedIn presence</div><div class="gap-desc">Corporate buyers, HR managers, directors and investors search LinkedIn first. Invisible there means invisible to your best clients.</div></div></div>
+          <div class="gap-row"><div class="gap-icon">📱</div><div><div class="gap-title">No TikTok or Instagram Reels</div><div class="gap-desc">The world's fastest-growing discovery platforms. Every industry has a customer scrolling right now — a homeowner looking for a contractor, a founder searching for a service, a shopper ready to buy. TikTok and Instagram close the distance between your business and the people who need you most.</div></div></div>
+        
           <div class="gap-row"><div class="gap-icon">✍️</div><div><div class="gap-title">No brand story</div><div class="gap-desc">Facts tell, stories sell. Without a compelling narrative, you're competing on price instead of value.</div></div></div>
           <div class="gap-row"><div class="gap-icon">⭐</div><div><div class="gap-title">Reviews not working for you</div><div class="gap-desc">A 4.9 rating sitting on one page. Amplified across platforms it becomes a conversion machine.</div></div></div>
           <div class="gap-row"><div class="gap-icon">👤</div><div><div class="gap-title">No founder personal brand</div><div class="gap-desc">People buy from people. Visible founders build trust faster and cheaper than any ad campaign.</div></div></div>
@@ -468,10 +469,10 @@ footer {
     <p class="sec-tag">Why hire me</p>
     <h2 class="sec-head">What hiring managers<br>actually get</h2>
     <div class="why-grid">
-      <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Zero ramp-up time</div><div class="why-card-body">10+ years across VA, brand strategy, lead gen, QA, and business analysis. I integrate fast, ask the right questions, and deliver from week one.</div></div>
-      <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Commercial thinking</div><div class="why-card-body">Every task I do is tied to a business outcome. I don't post content for the sake of it or manage inboxes robotically — I ask what it needs to achieve and work backwards from there.</div></div>
+      <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Zero ramp-up time</div><div class="why-card-body">10+ years across customer support, VA, brand strategy, lead gen, and business analysis. I integrate fast, ask the right questions, and deliver from week one.</div></div>
+      <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Commercial thinking</div><div class="why-card-body">Every task I do is tied to a business outcome. I don't post content for the sake of it or manage inboxes robotically — I take the time to understand your business, your people, and what you are trying to build. Every task I touch is connected to a real outcome, and the people behind it.</div></div>
       <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Fully self-managed</div><div class="why-card-body">Remote-native since 2022. No micromanaging needed. I manage my own pipeline, hit my own targets, and communicate proactively so you're never chasing me for updates.</div></div>
-      <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Multi-disciplinary</div><div class="why-card-body">Most businesses need five different people to cover brand strategy, virtual assistance, lead generation, customer support, and business analysis. I do all five. That means one point of contact, one invoice, and no gaps between departments — a practical advantage for small and growing teams watching their budget.</div></div>
+      <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Multi-disciplinary</div><div class="why-card-body">Brand strategy, virtual assistance, lead generation, customer support, and business analysis — in one person. Most businesses need five different people to cover brand strategy, virtual assistance, lead generation, customer support, and business analysis. I do all five. That means one point of contact, one invoice, and no gaps between departments — a practical advantage for small and growing teams watching their budget.</div></div>
       <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Passion-led results</div><div class="why-card-body">I genuinely care about the businesses I work with. That comes through in the quality, the initiative, and the willingness to go beyond the job description when it matters.</div></div>
       <div class="why-card"><div class="why-card-accent"></div><div class="why-card-title">Flexible engagement</div><div class="why-card-body">Full team member, independent contractor, or freelancer — whatever structure works best for your business and budget. Introductory rates available for first engagements.</div></div>
     </div>
@@ -490,7 +491,7 @@ footer {
     <h2 class="sec-head">Ten years of showing up<br>and delivering results</h2>
     <div class="exp-timeline">
       <div class="exp-row"><div class="exp-meta"><div class="exp-period">2022 – Present</div><div class="exp-company">Remote · Freelance</div></div><div><div class="exp-role">Virtual Assistant</div><ul class="exp-bullets"><li>Managed scheduling, email correspondence, and task workflows across multiple remote clients using ClickUp.</li><li>Maintained CRM systems, generated reports, and tracked pipeline progress with spreadsheet tools.</li><li>Collaborated with cross-functional teams via Slack, Zoom, and cloud platforms to improve workflow efficiency.</li></ul></div></div>
-      <div class="exp-row"><div class="exp-meta"><div class="exp-period">2022 – 2025</div><div class="exp-company">LDG Reliance</div></div><div><div class="exp-role">Customer Service Representative — QA Support</div><ul class="exp-bullets"><li>Monitored inbound & outbound calls, chats, and emails against KPIs including accuracy, empathy, and resolution rate.</li><li>Produced QA reports and operational insights using Microsoft Office and Google Workspace.</li><li>Enhanced customer experience through data-driven feedback and targeted support improvements.</li></ul></div></div>
+      <div class="exp-row"><div class="exp-meta"><div class="exp-period">2022 – 2025</div><div class="exp-company">LDG Reliance</div></div><div><div class="exp-role">Customer Service Representative — QA Support</div><ul class="exp-bullets"><li>Monitored calls, chats, and emails against KPIs including accuracy, empathy, and resolution rate.</li><li>Produced QA reports and operational insights using Microsoft Office and Google Workspace.</li><li>Enhanced customer experience through data-driven feedback and targeted support improvements.</li></ul></div></div>
       <div class="exp-row"><div class="exp-meta"><div class="exp-period">2022 – 2025</div><div class="exp-company">Brand Guru Ltd & Web Leads</div></div><div><div class="exp-role">Lead Generation Specialist</div><ul class="exp-bullets"><li>Managed outbound outreach and lead generation campaigns across multiple B2B clients.</li><li>Built and maintained CRM workflows and conducted market research to support customer acquisition.</li><li>Collaborated with teams to support and improve customer acquisition strategies.</li></ul></div></div>
       <div class="exp-row"><div class="exp-meta"><div class="exp-period">2014 – 2015</div><div class="exp-company">Malatsi-Tefo Attorneys</div></div><div><div class="exp-role">Marketing & IT Consultant</div><ul class="exp-bullets"><li>Developed outreach strategies, marketing materials, and business development opportunities.</li><li>Provided technical support for hardware, software, and desktop systems.</li></ul></div></div>
       <div class="exp-row"><div class="exp-meta"><div class="exp-period">2010 – 2013</div><div class="exp-company">Nashua Mobile</div></div><div><div class="exp-role">Junior Business Analyst</div><ul class="exp-bullets"><li>Gathered business requirements, identified process improvements, and supported UAT testing and user training.</li></ul></div></div>
@@ -543,7 +544,8 @@ footer {
 
 <!-- SEO KEYWORD ANCHOR - visually hidden, semantically meaningful -->
 <div style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;" aria-hidden="true">
-Lesedi Malatsi is a remote virtual assistant, customer support representative, lead generation specialist, brand strategist, and social media manager available for hire worldwide. Services include: virtual assistant services, remote VA, executive assistant, administrative support, customer service representative, customer support specialist, inbound and outbound customer support, lead generation, B2B lead generation, LinkedIn lead generation, outbound outreach, appointment setting, CRM management, pipeline management, brand strategy, branding strategist, social media management, social media manager, LinkedIn management, TikTok management, Instagram management, Facebook management, content strategy, content creation, storytelling, business analysis, process improvement, QA monitoring, quality assurance. Available for full-time remote employment, independent contractor roles, freelance projects, and retainer arrangements.
+Lesedi Malatsi is a remote virtual assistant, customer support representative, lead generation specialist, brand strategist, and social media manager available for hire worldwide. Services include: virtual assistant services, remote VA, executive assistant, administrative support, customer service representative, customer support specialist, inbound and outbound customer support, lead generation, B2B lead generation, LinkedIn lead generation, outbound outreach, appointment setting, CRM management, pipeline management, brand strategy, branding strategist, social media management, social media manager, LinkedIn management, TikTok management, Instagram management, Facebook management, content strategy, content creation, copywriting, storytelling, business analysis, process improvement, QA monitoring, quality assurance. Available for full-time remote employment, independent contractor roles, freelance projects, and retainer arrangements.
 </div>
 </body>
 </html>
+
