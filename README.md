@@ -4,8 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- PRIMARY SEO META -->
-<title>Lesedi Malatsi | Virtual Assistant · Customer Support · Lead Generation · Brand Strategist · Social Media Manager</title>
-<meta name="description" content="Hire Lesedi Malatsi — experienced Virtual Assistant, Customer Support Representative, Lead Generation Specialist, Brand Strategist and Social Media Manager. 10+ years remote-ready, available worldwide for full-time, contract or freelance roles.">
+<title>Lesedi Malatsi | Virtual Assistant · Admin Assistant · Customer Support · Lead Generation · Brand Strategist · Social Media Content Management</title>
+<meta name="description" content="Hire Lesedi Malatsi — experienced Virtual Assistant, Customer Support Representative, Admin, Lead Generation Specialist, Brand Strategist and Social Media Management. 10+ years remote-ready, available worldwide for full-time, contract or freelance roles.">
 <meta name="keywords" content="virtual assistant, VA, remote virtual assistant, customer support representative, customer service representative, lead generation specialist, brand strategist, social media manager, social media management, branding strategist, LinkedIn outreach, CRM management, appointment setting, email management, remote work, freelance virtual assistant, B2B lead generation, content strategist, QA support, business analyst, Lesedi Malatsi, Growtivo, hire virtual assistant, hire customer support, hire lead generation, hire brand strategist, hire social media manager">
 <meta name="author" content="Lesedi Malatsi">
 <meta name="robots" content="index, follow">
