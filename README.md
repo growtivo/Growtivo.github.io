@@ -15,7 +15,7 @@
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Lesedi Malatsi | Virtual Assistant · Customer Support · Lead Generation · Brand Strategist">
 <meta property="og:description" content="10+ years helping businesses run smoother, show up louder, and close the gaps that cost them money. Available for remote contracts worldwide.">
-<meta property="og:url" content="https://growtivo.github.io/">
+<meta property="og:url" content="https://github.io/lesedim>”
 <meta property="og:locale" content="en_ZA">
 
 <!-- TWITTER CARD -->
